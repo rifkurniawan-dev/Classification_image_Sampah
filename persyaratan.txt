@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+random
+time
+os
+glob
+shutil
+tensorflow
+keras
+cv2
+sklearn 
+tensorflow 
+warnings
